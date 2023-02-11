@@ -1,0 +1,39 @@
+{
+    "categories" :[
+        {
+            "id":1,
+            "title": "PLANTS",
+            "imageUrl": "https://i.ibb.co/mNSTrxn/plant.png"
+          },
+          {
+            "id":2,
+            "title": "SUBSTRATE",
+            "imageUrl": "https://i.ibb.co/mF160rG/49307060957-7b1cd13464-b.png"
+          },
+          {
+            "id":3,
+            "title": "LIGHTING SYSTEM",
+            "imageUrl": "https://i.ibb.co/SQTL4HT/lighting.jpg"
+          },
+          {
+            "id":4,
+            "title": "FILTERS",
+            "imageUrl": "https://i.ibb.co/qnxVqWR/filter.png"
+          },
+          {
+            "id":5,
+            "title": "FISH",
+            "imageUrl": "https://i.ibb.co/yswGPyH/betta-fish.png"
+          },
+          {
+            "id":6,
+            "title": "FISH FOOD",
+            "imageUrl": "https://i.ibb.co/Y0zyJQp/maxresdefault.png"
+          },
+          {
+            "id":7,
+            "title": "GLASS AQUARIUM",
+            "imageUrl": "https://i.ibb.co/S78TwCh/light-in-the-planted-aquarium.png"
+          }
+    ]
+}
