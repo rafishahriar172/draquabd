@@ -3,15 +3,7 @@ import Navigation from './routes/navigation/navigation.component';
 import Home from './routes/home/home.component';
 import Authentication from './routes/authentication/authentication.component';
 
-const Shop = () => {
-  return(
-    <div>
-      <div>
-        <h1>This is shop component</h1>
-      </div>
-    </div>
-  )
-}
+import Shop from './routes/shop/shop.component';
 
 
 function App() {
