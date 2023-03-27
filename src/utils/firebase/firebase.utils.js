@@ -65,7 +65,7 @@ const firebaseConfig = {
     const querySnapshot = await getDocs(q);
     const categoryMap = querySnapshot.docs.reduce((acc, docSnapshot) => {
       const { title, items } = docSnapshot.data();
-      acc[title.toLowerCase()] = items;
+      acc[title] = items;
       return acc;
     }, {});
   
